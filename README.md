@@ -2,7 +2,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://t.me/msmith828" target="blank"><img src="tg.jpg" height="30" width="30" /></a>
 <a href="mailto:rainstardev@hotmail.com" target="blank"><img src="hotmail.png" height="30" width="40" /></a></p>
 
 
