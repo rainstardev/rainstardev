@@ -1,4 +1,4 @@
-# Python | DL | ML | AI Engineer
+# Python | DL | ML | AI Project Manager
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
